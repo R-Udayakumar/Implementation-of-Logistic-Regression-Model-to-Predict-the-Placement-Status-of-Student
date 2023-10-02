@@ -81,17 +81,27 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-### PLACEMENT DATA 
+## PLACEMENT DATA 
 ![Screenshot from 2023-09-14 08-57-59](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/4ab1b9df-5c42-4d39-a173-3b0585d5b6c4)
+## SALARY DATA
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/7ec04afd-685c-48ac-bf1e-47b6139febd2)
+## CHECKING THE NULL() FUNCTION
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/cc2090e7-b25c-403c-8809-4b0f0722d5be)
+## DATA DUPLICATE
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/587731a4-0a14-4630-be95-b1078b2fdd5d)
+## PRINT DATA
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/91cc2a17-0588-4df6-a220-2cd351959b2c)
+## DATA-STATUS
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/4fd17606-20e3-423d-ab18-235e15ba72c1)
+## Y_PREDICTION ARRAY
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/16eae5b4-dd79-4234-9fd1-811916200754)
+## ACCURACY VALUE
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/f0e21144-404c-46b2-a483-26cb4b051360)
+## CONFUSION ARRAY
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/86577f25-0adb-4b7c-9774-7156ce23601c)
+## CLASSIFICATION REPORT
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/7cc3e320-00e1-49d6-b498-53f8f7b933b1)
+## PREDICTION OF LR
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/afe7f64a-d94e-473c-a59a-6187adcdcb64)
 ![image](https://github.com/R-Udayakumar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118708024/9ac8f2ce-22df-46d4-bb24-36f50cfac3dd)
 
